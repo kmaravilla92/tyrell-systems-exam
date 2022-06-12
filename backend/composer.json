@@ -1,0 +1,16 @@
+{
+    "name": "kmaravilla/playing-cards-exam",
+    "description": "A simple PHP backend for Tyrell Systems Sdn. Bhd. exam",
+    "autoload": {
+        "psr-4": {
+            "Kmaravilla\\PlayingCardsExam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kim",
+            "email": "kimluari@gmail.com"
+        }
+    ],
+    "require": {}
+}
